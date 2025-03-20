@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎤 I’m currently working on building a meditation app and exploring AI-driven automation and workflow optimization.<br>🕺 I’m looking to collaborate on AI/ML projects, product development, and startup initiatives.<br>🤝 I’m looking for help with refining product management skills and learning best practices for scaling AI-based solutions.<br>🌱 I’m currently learning advanced AI automation, React Native, and startup methodologies.<br>💬 Ask me about AI in automation, mobile app development, and how to leverage ML for workflow efficiency.<br>⚡ Fun fact I’m a big cricket fan and love discussing tech innovations in AI!
+🎤 I’m currently working on building react-native apps and exploring AI-driven automation and workflow optimization.<br>🕺 I’m looking to collaborate on AI/ML projects, product development, and startup initiatives.<br>🤝 I’m looking for help with refining product management skills and learning best practices for scaling AI-based solutions.<br>🌱 I’m currently learning advanced AI automation, React Native, and startup methodologies.<br>💬 Ask me about AI in automation, mobile app development, and how to leverage ML for workflow efficiency.<br>⚡ Fun fact I’m a big cricket fan and love discussing tech innovations in AI!
 
 
 ## 🌐 Socials:
